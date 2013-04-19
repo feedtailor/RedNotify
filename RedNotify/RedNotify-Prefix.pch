@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FTRedmineNotifier' target in the 'FTRedmineNotifier' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
